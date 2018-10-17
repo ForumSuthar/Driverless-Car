@@ -1,0 +1,8 @@
+prefix=/home/car-user/racecar_AI/devel
+
+Name: vesc_msgs
+Description: Description of vesc_msgs
+Version: 0.0.1
+Cflags: -I/home/car-user/racecar_AI/devel/include
+Libs: -L/home/car-user/racecar_AI/devel/lib 
+Requires: std_msgs message_runtime

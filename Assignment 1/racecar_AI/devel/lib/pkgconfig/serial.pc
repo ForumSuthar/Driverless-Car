@@ -1,0 +1,8 @@
+prefix=/home/car-user/racecar_AI/devel
+
+Name: serial
+Description: Description of serial
+Version: 1.2.1
+Cflags: -I/home/car-user/racecar_AI/src/serial/include
+Libs: -L/home/car-user/racecar_AI/devel/lib -lserial -lrt -lpthread
+Requires: 
