@@ -1,8 +1,0 @@
-prefix=/home/car-user/racecar_AI/install
-
-Name: serial
-Description: Description of serial
-Version: 1.2.1
-Cflags: -I/home/car-user/racecar_AI/install/include
-Libs: -L/home/car-user/racecar_AI/install/lib -lserial -lrt -lpthread
-Requires: 

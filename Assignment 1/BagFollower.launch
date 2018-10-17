@@ -1,0 +1,7 @@
+<launch>
+		<!-- Launch a BagFollower node and pass any necessary parameters -->
+  <node name="bag_follower" type="BagFollower.py" pkg="lab0" output="screen">
+  <param name="bag_path" type="string" value="/home/car-user/racecar_AI/src/bagfile/figure8.bag"/>
+	<param name="follow_backwards" type="bool" value="True"/>
+  </node>
+</launch>

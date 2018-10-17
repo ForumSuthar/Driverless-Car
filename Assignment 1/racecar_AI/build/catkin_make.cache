@@ -1,2 +1,0 @@
-lab0:racecar_base_public/ackermann_cmd_mux:racecar_base_public/push_button_utils:racecar_base_public/racecar:racecar_base_public/racecar_description:racecar_base_public/ydlidar:serial:vesc/vesc:vesc/vesc_ackermann:vesc/vesc_driver:vesc/vesc_msgs
--DCATKIN_DEVEL_PREFIX=/home/car-user/racecar_AI/devel -DCMAKE_INSTALL_PREFIX=/home/car-user/racecar_AI/install -G Unix Makefiles

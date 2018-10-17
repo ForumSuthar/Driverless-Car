@@ -1,8 +1,0 @@
-prefix=/home/car-user/racecar_AI/devel
-
-Name: racecar_ai_pkg
-Description: Description of racecar_ai_pkg
-Version: 0.0.0
-Cflags: 
-Libs: -L/home/car-user/racecar_AI/devel/lib 
-Requires: 

@@ -1,8 +1,0 @@
-prefix=/home/car-user/racecar_AI/install
-
-Name: lab0
-Description: Description of lab0
-Version: 1.0.0
-Cflags: 
-Libs: -L/home/car-user/racecar_AI/install/lib 
-Requires: rospy std_msgs rosbag ackermann_msgs sensor_msgs cv_bridge

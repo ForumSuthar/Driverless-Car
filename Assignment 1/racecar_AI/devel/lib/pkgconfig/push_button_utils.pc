@@ -1,8 +1,0 @@
-prefix=/home/car-user/racecar_AI/devel
-
-Name: push_button_utils
-Description: Description of push_button_utils
-Version: 0.0.0
-Cflags: -I/home/car-user/racecar_AI/src/racecar_base_public/push_button_utils/include
-Libs: -L/home/car-user/racecar_AI/devel/lib 
-Requires: 
