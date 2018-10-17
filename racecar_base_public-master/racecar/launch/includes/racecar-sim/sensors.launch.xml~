@@ -1,0 +1,10 @@
+<!-- -*- mode: XML -*- -->
+<launch>
+  <arg name="sensors_config"
+       default="$(find racecar)/config/racecar-sim/sensors.yaml" />
+  <rosparam file="$(arg sensors_config)" command="load" />
+
+  <!--node pkg="racecar" type="fake_urg_node.py" name="laser_node" output="screen">
+  </node-->
+  <include file="$(find racecar)/launch/includes/racecar-sim/fake_urg_node.launch.xml"/>
+</launch>

@@ -1,0 +1,11 @@
+- git:
+        local-name: racecar_base_public
+        uri: https://gitlab.cs.washington.edu/uw_racecar/course_materials/racecar_base_public
+
+- git:
+        local-name: vesc
+        uri: https://github.com/mit-racecar/vesc.git
+
+- git:
+        local-name: serial
+        uri: https://github.com/wjwwood/serial.git
